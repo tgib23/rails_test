@@ -1,0 +1,2 @@
+class GoodbyeController < ApplicationController
+end
